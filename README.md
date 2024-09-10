@@ -15,7 +15,7 @@ To install the hrobot-cli on your system you need to build it manually. If there
 You need to have Go installed on your system. To build the latest version of `hrobot` you can simply run: 
 
 ``` bash
-go install github.com/floshodan/hrobot/cli/cmd/hrobot@latest
+go install github.com/floshodan/hrobot-cli/cmd/hrobot@latest
 ```
 
 ## Getting started
